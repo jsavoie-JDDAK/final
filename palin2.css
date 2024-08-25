@@ -1,0 +1,25 @@
+/* General Styles */
+section {
+    /* Use Arial font and set background color */
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #20e647;
+    text-align: center;
+    padding-top: 150px;
+}
+
+/* Header Styles */
+h1 {
+    /* Set the color of the main heading */
+    color: #4CAF50;
+    
+}
+
+/* Results Container Styles */
+#palin {
+    /* Add some margin to the top of the results container */
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
